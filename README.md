@@ -492,6 +492,7 @@ Este projeto é de uso pessoal e educacional.
 - 📚 **Spring Boot Docs**: [spring.io](https://spring.io)
 - 🗄️ **H2 Database**: [h2database.com](http://h2database.com)
 - 🧪 **Insomnia**: [insomnia.rest](https://insomnia.rest)
+- 📚 **Referências:** [javanauta.youtube](https://insomnia.rest)](https://www.youtube.com/watch?v=yW7RrWfUeHE)
 
 ---
 
