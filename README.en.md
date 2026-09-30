@@ -220,6 +220,7 @@ This project is for personal and educational use.
 - 📚 **Spring Boot Documentation:** [spring.io](https://spring.io)
 - 🗄️ **H2 Database:** [h2database.com](http://h2database.com)
 - 🧪 **Insomnia:** [insomnia.rest](https://insomnia.rest)
+- 📚 **Referências:** [javanauta.youtube](https://insomnia.rest)](https://www.youtube.com/watch?v=yW7RrWfUeHE)
 
 ---
 
